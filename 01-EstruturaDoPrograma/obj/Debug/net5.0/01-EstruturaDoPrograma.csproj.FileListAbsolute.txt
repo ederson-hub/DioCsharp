@@ -1,0 +1,16 @@
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.AssemblyInfo.cs
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.exe
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.deps.json
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.runtimeconfig.json
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.runtimeconfig.dev.json
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.dll
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\ref\01-EstruturaDoPrograma.dll
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.pdb
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.dll
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\ref\01-EstruturaDoPrograma.dll
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.pdb
+C:\workspace\c#\CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.genruntimeconfig.cache
